@@ -12,6 +12,8 @@ function devolverString(string) {
 function suma(x, y) {
    // Retorna el resultado de su suma.
    // Tu código:
+   var suma = x + y;
+   return suma;
 }
 
 function resta(x, y) {
